@@ -76,7 +76,7 @@ OUT OF SCOPE = wrong county for this pilot.
   evidence about those pantries.
 
 ## Suggested next step (needs Keith's accept — nothing sent yet)
-Send only the five headline findings to PA 211 East as suggested corrections,
+Send only the five headline findings to statewide PA 211 as suggested corrections,
 with this report attached, and ask PA 211 to confirm the UNVERIFIED items
 with the pantries themselves rather than publishing them. Alternatively,
 publish this draft as a public audit in Keith's own repo first, and let

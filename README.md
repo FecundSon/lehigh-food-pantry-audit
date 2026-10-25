@@ -1,7 +1,7 @@
 # Lehigh County, PA — Food Pantry Listing Audit
 
-**Checked: 2026-10-24. Status: published here first for PA 211 East and the
-pantries to respond to. Nothing in this audit has been sent to PA 211 East,
+**Checked: 2026-10-24. Status: published here first for statewide PA 211 and the
+pantries to respond to. Nothing in this audit has been sent to statewide PA 211,
 Second Harvest, or any pantry as a direct message.**
 
 ## What this is
@@ -38,7 +38,7 @@ without checking with the pantry or PA 211 first.
 - Hours from a church/office page are not pantry hours, and are flagged
   as such wherever that confusion was possible.
 - This audit was prepared with AI assistance. Corrections, challenges,
-  and updates from PA 211 East or the pantries themselves are welcome —
+  and updates from statewide PA 211 or the pantries themselves are welcome —
   that is the point of publishing it here first.
 
 ## Files
@@ -48,6 +48,6 @@ without checking with the pantry or PA 211 first.
   against, including the questions that were open before checking.
 
 ## Next step
-PA 211 East and the pantries are invited to confirm or correct the
+statewide PA 211 and the pantries are invited to confirm or correct the
 headline items above. The UNVERIFIED items in the full report should be
 confirmed directly with the pantries, not published from this audit.

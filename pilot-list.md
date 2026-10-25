@@ -80,4 +80,4 @@ HUB (reference only, not counted as a walk-in pantry):
 3. Fill in address/hours for items 15–20 or drop them with a reason.
 4. Write the dated audit report (evidence per item, check date 2026-10-24
    onward) and bring it to Keith for accept BEFORE sending anything to
-   PA 211 East, Second Harvest, or any pantry.
+   statewide PA 211, Second Harvest, or any pantry.
